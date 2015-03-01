@@ -1,0 +1,14 @@
+{
+  "name": "SimpleWebsite",
+  "version": "1.0.0",
+  "description": "A very very simple website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Rinaldi - Microarea",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.0"
+  }
+}
